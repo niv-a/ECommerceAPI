@@ -1,4 +1,4 @@
-# RynokECommerceStore 🛒
+# ECommerceAPI 🛒
 
 ## This application will have 2 seperate interfaces.
 
